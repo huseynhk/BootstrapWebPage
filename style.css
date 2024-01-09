@@ -6,17 +6,16 @@
 }
 
 body {
-  padding-top: 50px;
+  padding-top: 3rem;
   font-family: "Poppins", sans-serif;
 }
 
 .sliderImg {
-  height: 94vh;
-  object-fit: cover;
+  height: 95vh;
 }
 
 .imgCard {
-  height: 50vh;
+  height: 25rem;
 }
 
 .figure img:hover {
